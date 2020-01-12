@@ -1,0 +1,18 @@
+/* NAVBAR */
+.nav-custom-style {
+  background-color: #009688;
+}
+.brand-custom-style {
+  font-family: "Niconne", cursive;
+  padding: 0 10px;
+  font-weight: 400;
+}
+/* .app-sidebar__toggle {
+  padding: 0 15px;
+  font-family: fontAwesome;
+  color: #fff;
+  line-height: 2.4;
+  -webkit-transition: background-color 0.3s ease;
+  -o-transition: background-color 0.3s ease;
+  transition: background-color 0.3s ease;
+} */
